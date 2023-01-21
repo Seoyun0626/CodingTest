@@ -1,0 +1,19 @@
+while(True):
+    num1=input()
+    num=int(num1)
+    final=num
+    if(num==0):
+        break
+    else:
+        cnt=0
+        while(num!=0):
+            num=num//10
+            cnt+=1
+        cnt=cnt-1
+        result=0
+        for i in range(cnt,-1,-1):
+            result+=int(num1[i])*(10**i)
+        if(final==result):
+            print('yes')
+        else:
+            print('no')
