@@ -1,0 +1,14 @@
+A=list(map(int,input().split()))
+B=list(map(int,input().split()))
+C=list(map(int,input().split()))
+D=list(map(int,input().split()))
+E=list(map(int,input().split()))
+A=sum(A)
+B=sum(B)
+C=sum(C)
+D=sum(D)
+E=sum(E)
+X=[A,B,C,D,E]
+P=(X.index(max(X)))+1
+Q=max(X)
+print(P,Q)
