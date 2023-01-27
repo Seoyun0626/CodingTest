@@ -1,22 +1,24 @@
 import sys
-input= sys.stdin.readline
+input = sys.stdin.readline
+
 
 N = int(input())
-li = dict() 
+dic = dict()
+
+
 for _ in range(N):
-    name = input().rstrip() 
-    if name not in li.keys(): 
-        li[name] = 1 
+    participant = input().rstrip()
+    if participant in dic:
+        dic[participant] += 1
     else:
-        li[name] += 1 
-
-
-for _ in range(N-1):
-    name = input().rstrip() 
-    if name in li.keys(): 
-        li[name] += 1
-
-for key, values in li.items():
-    if values %2 == 1: 
-        print(key)
+        dic[participant] = 1
+for _ in range(N - 1):
+    final = input().rstrip()
+    dic[final] -= 1
+for p in dic:
+    if dic[p]:
+        print(p)
         break
+
+
+
