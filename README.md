@@ -143,6 +143,7 @@
 |2960. 에라토스테네스의 체|[링크](./%EB%B0%B1%EC%A4%80/Silver/2960.%E2%80%85%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%E2%80%85%EC%B2%B4/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%E2%80%85%EC%B2%B4.py)|
 |7568. 덩치|[링크](./%EB%B0%B1%EC%A4%80/Silver/7568.%E2%80%85%EB%8D%A9%EC%B9%98/%EB%8D%A9%EC%B9%98.py)|
 |9012. 괄호|[링크](./%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8/%EA%B4%84%ED%98%B8.py)|
+|9507. Generations of Tribbles|[링크](./%EB%B0%B1%EC%A4%80/Silver/9507.%E2%80%85Generations%E2%80%85of%E2%80%85Tribbles/Generations%E2%80%85of%E2%80%85Tribbles.py)|
 ## 📚 프로그래머스
 ### 🚀 lv1
 | 문제번호 | 링크 |
