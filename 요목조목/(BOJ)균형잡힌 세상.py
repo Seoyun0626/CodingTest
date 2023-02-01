@@ -1,4 +1,4 @@
-# flag는 멈출 때 사용 
+# flag는 멈출 때 사용
 
 while True:
     s = input()
