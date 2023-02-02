@@ -1,6 +1,3 @@
-
-
-
 import string
 
 
@@ -15,6 +12,7 @@ id_1 = new_id
 
 
 id_1 = id_1.lower()
+
 # print(id_1)
 
 for x in id_1:
