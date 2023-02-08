@@ -5,6 +5,7 @@
 # catchsize = 0
 # cities = ["Jeju", "Pangyo", "Seoul", "NewYork", "LA"]
 # print(cities)
+
 time = 0
 stack = []
 
