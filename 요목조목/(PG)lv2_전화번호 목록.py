@@ -12,6 +12,8 @@ for check in phone_book:
     num = ""
     for y in check:
         num += y
+        print(num, check)
+        print(num in dic, num != check)
         if num in dic and num != check:
             answer = False
             break
