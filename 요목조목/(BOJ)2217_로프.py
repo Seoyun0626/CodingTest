@@ -1,5 +1,5 @@
 # 반례 10, 4, 4, 4, 4, 4, 4 -> 중간에 튀는 문제 생김 -> break를 걸면 오류
-# test
+
 import sys
 input = sys.stdin.readline
 
