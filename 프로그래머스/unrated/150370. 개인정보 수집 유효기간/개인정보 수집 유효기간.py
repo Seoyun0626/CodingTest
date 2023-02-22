@@ -3,7 +3,7 @@ def solution(today, terms, privacies):
 
     # today = "2022.02.28"
     # terms = ["A 23"]
-    # # privacies = ["2020.01.28 A"]
+    # privacies = ["2020.01.28 A"]
     # today = "2022.05.19"
     # terms = ["A 6", "B 12", "C 3"]
     # privacies = ["2021.05.02 A", "2021.07.01 B", "2022.02.19 C", "2022.02.20 C"]
@@ -20,6 +20,7 @@ def solution(today, terms, privacies):
     today_day += year * 28 * 12
     today_day += month * 28
     today_day += day
+    today_day
     # print(today_day)
 
 
@@ -28,15 +29,20 @@ def solution(today, terms, privacies):
         terms_dic[kind] = int(month) * 28
     # print(terms_dic)
 
+    for i in range(len(privacies)):
+        tmp = 0
+        date, kind = privacies[i].split()
+        year, month, day = map(int, date.split("."))
+        tmp += year * 12 * 28
+        tmp += month * 28
+        tmp += day
+        privacies_dic[tmp] = kind
+    # print(privacies_dic)
 
 
-
-    for i, p in enumerate(privacies):
+    for i, (day, kind) in enumerate(privacies_dic.items()):
         # print(day, kind, day + terms_dic[kind], today_day)
-        y, m, d = p.split(".")
-        d, kind = d.split()
-        day = int(y) * 12 * 28 + int(m) * 28 + int(d)
-        if day + terms_dic[kind] <= today_day:
+        if (day + terms_dic[kind] - 1) < today_day:
             result.append(i + 1)
 
     return result
