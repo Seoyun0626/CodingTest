@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="805c9517-0cba-4a6e-b3bb-baf109f443f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/요목조목/(PG)lv3_베스트앨범.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/요목조목/(PG)lv3_베스트앨범.py" beforeDir="false" afterPath="$PROJECT_DIR$/요목조목/(PG)lv3_베스트앨범.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +252,7 @@
       <workItem from="1678093245011" duration="2388000" />
       <workItem from="1678101667476" duration="9000" />
       <workItem from="1678145751366" duration="1580000" />
-      <workItem from="1693784060333" duration="4874000" />
+      <workItem from="1693784060333" duration="6061000" />
     </task>
     <servers />
   </component>
@@ -381,7 +381,7 @@
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_9375___PY.coverage" NAME="(BOJ)9375_패션왕 신해빈.PY Coverage Results" MODIFIED="1675925482512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_5052___PY.coverage" NAME="(BOJ)5052_전화번호 목록.PY Coverage Results" MODIFIED="1676013304791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_9507_Generations_of_Tribbles.coverage" NAME="(BOJ)9507_Generations of Tribbles Coverage Results" MODIFIED="1675152547404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
-    <SUITE FILE_PATH="coverage/CodingTest$_PG_lv3_.coverage" NAME="(PG)lv3_베스트앨범 Coverage Results" MODIFIED="1693803124917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
+    <SUITE FILE_PATH="coverage/CodingTest$_PG_lv3_.coverage" NAME="(PG)lv3_베스트앨범 Coverage Results" MODIFIED="1693803377683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1417__.coverage" NAME="(BOJ)1417_국회의원 선거 Coverage Results" MODIFIED="1675834382288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_17219__.coverage" NAME="(BOJ)17219_비밀번호 찾기 Coverage Results" MODIFIED="1674569513942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_PG_lv2_H_Index.coverage" NAME="(PG)lv2_H-Index Coverage Results" MODIFIED="1676427398718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
