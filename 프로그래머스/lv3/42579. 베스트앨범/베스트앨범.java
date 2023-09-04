@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.HashMap;
+import java.util.ArrayList;
 
 class Solution {
-    public int[] solution(String[] genres, int[] plays) 
     {
         // genre당 누적 play
         HashMap<String, Integer> map = new HashMap<>();
@@ -18,7 +18,7 @@ class Solution {
         }
         
         // key 값에 해당하는 value를 내림차순으로 정렬, 람다 함수 사용
-        Collections.sort(genre, (o1, o2) -> map.get(o2) - map.get(o1));
+        Collections.sort(genre, (o1, o2) -> map.get(o2) - map.get(01));
         
         ArrayList<Integer> list = new ArrayList<>();
         for (int i = 0; i < genre.size(); i++)
@@ -30,9 +30,9 @@ class Solution {
         	int firstldx = -1;
         	for (int j = 0; j < genres.length; j++)
         	{
-        		if(g.equals(genres[j]) && max < plays[j])
+        		if(g.equals(genres[i]) && max < plays[i])
         		{
-        			max = plays[j];
+        			max = plays[i];
         			firstldx = j;
         		}
         	}
@@ -41,9 +41,9 @@ class Solution {
         	int secondldx = -1;
         	for (int j = 0; j < genres.length; j++)
         	{
-        		if(g.equals(genres[j]) && max < plays[j] && j != firstldx)
+        		if(g.equals(genres[i]) && max < plays[i] && j != firstldx)
         		{
-        			max = plays[j];
+        			max = plays[i];
         			secondldx = j;
         		}
         	}
@@ -59,5 +59,5 @@ class Solution {
     		result[k] = list.get(k);
     	}
         return result;
-    }	
+    }
 }
