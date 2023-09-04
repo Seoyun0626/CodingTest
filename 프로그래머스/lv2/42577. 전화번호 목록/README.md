@@ -1,10 +1,10 @@
 # [level 2] 전화번호 목록 - 42577 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42577) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=java) 
 
 ### 성능 요약
 
-메모리: 34.6 MB, 시간: 178.11 ms
+메모리: 197 MB, 시간: 361.14 ms
 
 ### 구분
 
@@ -12,7 +12,7 @@
 
 ### 채점결과
 
-<br/>정확성: 83.3<br/>효율성: 16.7<br/>합계: 100.0 / 100.0
+Empty
 
 ### 문제 설명
 
@@ -75,8 +75,6 @@
 <p><strong>알림</strong></p>
 
 <p>2021년 3월 4일, 테스트 케이스가 변경되었습니다. 이로 인해 이전에 통과하던 코드가 더 이상 통과하지 않을 수 있습니다.</p>
-
-<p><a href="https://ncpc.idi.ntnu.no/ncpc2007/ncpc2007problems.pdf" target="_blank" rel="noopener">출처</a></p>
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
