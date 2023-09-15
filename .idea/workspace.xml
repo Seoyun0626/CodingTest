@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="805c9517-0cba-4a6e-b3bb-baf109f443f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/요목조목/(PG)lv1_모의고사V2.PY" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/요목조목/(PG)lv2_가장 큰 수V2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/요목조목/타겟 넘버.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +42,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.(PG)lv1_모의고사V2.PY">
+  <component name="RunManager" selected="Python.(PG)lv2_가장 큰 수V2">
     <configuration name="(BOJ)2161_카드1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,28 +57,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(BOJ)2161_카드1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="(BOJ)2167_2차원 배열의 합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/요목조목" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(BOJ)2167_2차원 배열의 합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,6 +109,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="(PG)lv2_가장 큰 수V2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/요목조목" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(PG)lv2_가장 큰 수V2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="(PG)lv3_베스트앨범" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,19 +154,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.(PG)lv2_가장 큰 수V2" />
       <item itemvalue="Python.(PG)lv1_모의고사V2.PY" />
       <item itemvalue="Python.(PG)lv3_베스트앨범" />
       <item itemvalue="Python.(BOJ)2563_색종이" />
       <item itemvalue="Python.(BOJ)2161_카드1" />
-      <item itemvalue="Python.(BOJ)2167_2차원 배열의 합" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.(PG)lv2_가장 큰 수V2" />
         <item itemvalue="Python.(PG)lv1_모의고사V2.PY" />
         <item itemvalue="Python.(PG)lv3_베스트앨범" />
         <item itemvalue="Python.(BOJ)2563_색종이" />
         <item itemvalue="Python.(BOJ)2161_카드1" />
-        <item itemvalue="Python.(BOJ)2167_2차원 배열의 합" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +232,8 @@
       <workItem from="1693784060333" duration="6795000" />
       <workItem from="1694062234025" duration="1023000" />
       <workItem from="1694521817420" duration="731000" />
-      <workItem from="1694733329470" duration="3430000" />
+      <workItem from="1694733329470" duration="3959000" />
+      <workItem from="1694737342169" duration="1596000" />
     </task>
     <servers />
   </component>
@@ -300,6 +298,7 @@
     <SUITE FILE_PATH="coverage/CodingTest$.coverage" NAME="최소힙 Coverage Results" MODIFIED="1675752600704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/인프런" />
     <SUITE FILE_PATH="coverage/CodingTest$_PG_lv___version2_.coverage" NAME="(PG)lv_다트 게임(version2) Coverage Results" MODIFIED="1675234763729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_11726_2_X_n_.coverage" NAME="(BOJ)11726_2 X n 타일링 Coverage Results" MODIFIED="1676787814443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
+    <SUITE FILE_PATH="coverage/CodingTest$_PG_lv2___V2.coverage" NAME="(PG)lv2_가장 큰 수V2 Coverage Results" MODIFIED="1694738859613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_2161_1.coverage" NAME="(BOJ)2161_카드1 Coverage Results" MODIFIED="1678095558026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_PG_lv1____.coverage" NAME="(PG)lv1_개인정보 수집 유효 기간 Coverage Results" MODIFIED="1677051442503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_2108_.coverage" NAME="(BOJ)2108_통계학 Coverage Results" MODIFIED="1674463572775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
@@ -325,7 +324,7 @@
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_10866_.coverage" NAME="(BOJ)10866_덱 Coverage Results" MODIFIED="1674284327428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_11441__.coverage" NAME="(BOJ)11441_합 구하기 Coverage Results" MODIFIED="1673845165877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1021__.coverage" NAME="(BOJ)1021_회전하는 큐 Coverage Results" MODIFIED="1674290024448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
-    <SUITE FILE_PATH="coverage/CodingTest$_PG_lv1_V2_PY.coverage" NAME="(PG)lv1_모의고사V2.PY Coverage Results" MODIFIED="1694735879248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
+    <SUITE FILE_PATH="coverage/CodingTest$_PG_lv1_V2_PY.coverage" NAME="(PG)lv1_모의고사V2.PY Coverage Results" MODIFIED="1694737905291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ___.coverage" NAME="(BOJ)카드 합체 놀이 Coverage Results" MODIFIED="1675835185922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1110__.coverage" NAME="(BOJ)1110_더하기 사이클 Coverage Results" MODIFIED="1675434754572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ__0_.coverage" NAME="(BOJ)팩토리얼 0의 개수 Coverage Results" MODIFIED="1674571781415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
