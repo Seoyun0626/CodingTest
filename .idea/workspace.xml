@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="805c9517-0cba-4a6e-b3bb-baf109f443f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/요목조목/(BOJ)DFS와 BFS_V2.PY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/요목조목/(BOJ)바이러스.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/요목조목/(PG)lv2_게임 맵 최단거리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/요목조목/(PG)lv1_모의고사V2.PY" beforeDir="false" afterPath="$PROJECT_DIR$/요목조목/(PG)lv1_모의고사V2.PY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/요목조목/(PG)lv2_가장 큰 수V2.py" beforeDir="false" afterPath="$PROJECT_DIR$/요목조목/(PG)lv2_가장 큰 수V2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +29,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/seoyun/CodingTest&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/seoyun/CodingTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.(BOJ)DFS와 BFS_V2.PY">
+}]]></component>
+  <component name="RunManager" selected="Python.(BOJ)바이러스">
+    <configuration name="(BOJ)바이러스" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/요목조목" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(BOJ)바이러스.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="(BOJ)DFS와 BFS_V2.PY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,42 +155,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="(PG)lv3_베스트앨범" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/요목조목" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(PG)lv3_베스트앨범.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.(BOJ)DFS와 BFS_V2.PY" />
+      <item itemvalue="Python.(BOJ)바이러스" />
       <item itemvalue="Python.(PG)lv2_타겟 넘버" />
       <item itemvalue="Python.(PG)lv2_가장 큰 수V2" />
       <item itemvalue="Python.(PG)lv1_모의고사V2.PY" />
-      <item itemvalue="Python.(PG)lv3_베스트앨범" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.(BOJ)바이러스" />
         <item itemvalue="Python.(BOJ)DFS와 BFS_V2.PY" />
         <item itemvalue="Python.(PG)lv2_가장 큰 수V2" />
         <item itemvalue="Python.(PG)lv2_타겟 넘버" />
         <item itemvalue="Python.(PG)lv1_모의고사V2.PY" />
-        <item itemvalue="Python.(PG)lv3_베스트앨범" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +238,7 @@
       <workItem from="1694737342169" duration="1596000" />
       <workItem from="1694754465076" duration="6274000" />
       <workItem from="1694847623533" duration="834000" />
-      <workItem from="1694854437245" duration="3979000" />
+      <workItem from="1694854437245" duration="5512000" />
     </task>
     <servers />
   </component>
@@ -270,6 +269,11 @@
           <line>8</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/요목조목/(BOJ)바이러스.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -294,6 +298,7 @@
     <SUITE FILE_PATH="coverage/CodingTest$_PG_lvl1_.coverage" NAME="(PG)lvl1_폰켓몬 Coverage Results" MODIFIED="1675127566510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1193_.coverage" NAME="(BOJ)1193_분수찾기 Coverage Results" MODIFIED="1677767713673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_4344__.coverage" NAME="(BOJ)4344_평균은 넘겠지 Coverage Results" MODIFIED="1675491515928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
+    <SUITE FILE_PATH="coverage/CodingTest$_BOJ_.coverage" NAME="(BOJ)바이러스 Coverage Results" MODIFIED="1694859905536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_18258_2.coverage" NAME="(BOJ)18258_큐2 Coverage Results" MODIFIED="1674270119760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_2167_2__.coverage" NAME="(BOJ)2167_2차원 배열의 합 Coverage Results" MODIFIED="1678094815767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_PG_lv1_____.coverage" NAME="(PG)lv1_로또의 최고 순위와 최저 순위 Coverage Results" MODIFIED="1675235734856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
