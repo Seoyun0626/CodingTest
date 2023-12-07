@@ -5,16 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="805c9517-0cba-4a6e-b3bb-baf109f443f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CodingTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/요목조목/(BOJ)4963_섬의 개수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/요목조목/(BOJ)1003_피보나치 함수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/요목조목/(BOJ)25083_새싹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/요목조목/(BOJ)2644_촌수계산.PY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/요목조목/(BOJ)27866_문자와 문자열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/요목조목/(이코테)음료수 얼려먹기_V2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,8 +55,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.(BOJ)4963_섬의 개수">
-    <configuration name="(BOJ)1012_유기농 배추" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.(BOJ)1003_피보나치 함수">
+    <configuration name="(BOJ)1003_피보나치 함수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +69,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(BOJ)1012_유기농 배추.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(BOJ)1003_피보나치 함수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="(BOJ)11724_연결 요소의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="(BOJ)25083_새싹" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\seoyun\CodingTest\요목조목\(BOJ)11724_연결 요소의 개수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(BOJ)25083_새싹.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="(BOJ)2667_단지번호붙이기.PY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="(BOJ)27866_문자와 문자열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(BOJ)2667_단지번호붙이기.PY" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(BOJ)27866_문자와 문자열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="(PG)lv2_게임 맵 최단거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="(이코테)음료수 얼려먹기_V2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +157,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(PG)lv2_게임 맵 최단거리.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/요목조목/(이코테)음료수 얼려먹기_V2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,19 +167,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.(BOJ)1003_피보나치 함수" />
+      <item itemvalue="Python.(BOJ)25083_새싹" />
+      <item itemvalue="Python.(BOJ)27866_문자와 문자열" />
       <item itemvalue="Python.(BOJ)4963_섬의 개수" />
-      <item itemvalue="Python.(BOJ)1012_유기농 배추" />
-      <item itemvalue="Python.(BOJ)11724_연결 요소의 개수" />
-      <item itemvalue="Python.(BOJ)2667_단지번호붙이기.PY" />
-      <item itemvalue="Python.(PG)lv2_게임 맵 최단거리" />
+      <item itemvalue="Python.(이코테)음료수 얼려먹기_V2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.(BOJ)1003_피보나치 함수" />
+        <item itemvalue="Python.(BOJ)27866_문자와 문자열" />
+        <item itemvalue="Python.(BOJ)25083_새싹" />
+        <item itemvalue="Python.(이코테)음료수 얼려먹기_V2" />
         <item itemvalue="Python.(BOJ)4963_섬의 개수" />
-        <item itemvalue="Python.(BOJ)11724_연결 요소의 개수" />
-        <item itemvalue="Python.(BOJ)1012_유기농 배추" />
-        <item itemvalue="Python.(BOJ)2667_단지번호붙이기.PY" />
-        <item itemvalue="Python.(PG)lv2_게임 맵 최단거리" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +252,13 @@
       <workItem from="1694854437245" duration="5512000" />
       <workItem from="1694860041643" duration="1323000" />
       <workItem from="1694992061564" duration="11966000" />
-      <workItem from="1695104813625" duration="3058000" />
+      <workItem from="1695104813625" duration="3671000" />
+      <workItem from="1695183180718" duration="3000" />
+      <workItem from="1695259658760" duration="3717000" />
+      <workItem from="1695362270326" duration="1000" />
+      <workItem from="1695706368618" duration="34000" />
+      <workItem from="1696555292936" duration="16000" />
+      <workItem from="1701928844000" duration="2276000" />
     </task>
     <servers />
   </component>
@@ -324,6 +338,7 @@
     <SUITE FILE_PATH="coverage/CodingTest$_PG_lv1__.coverage" NAME="(PG)lv1_키패드 누르기 Coverage Results" MODIFIED="1675309306825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_16165___.coverage" NAME="(BOJ)16165_걸그룹 마스터 준석이 Coverage Results" MODIFIED="1674982204969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_2839__DP_.coverage" NAME="(BOJ)2839_설탕배달(DP) Coverage Results" MODIFIED="1675148262633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
+    <SUITE FILE_PATH="coverage/CodingTest$_BOJ_25083_.coverage" NAME="(BOJ)25083_새싹 Coverage Results" MODIFIED="1701929666753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_5052___PY.coverage" NAME="(BOJ)5052_전화번호 목록.PY Coverage Results" MODIFIED="1676013304791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_PG_lv2___V2.coverage" NAME="(PG)lv2_가장 큰 수V2 Coverage Results" MODIFIED="1694847880408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1541__.coverage" NAME="(BOJ)1541_잃어버린 괄호 Coverage Results" MODIFIED="1676439886819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
@@ -370,10 +385,12 @@
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_10610_30.coverage" NAME="(BOJ)10610_30 Coverage Results" MODIFIED="1676293529371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$.coverage" NAME="최소힙 Coverage Results" MODIFIED="1675752600704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/인프런" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1927__.coverage" NAME="(BOJ)1927_최소 힙 Coverage Results" MODIFIED="1675606719089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
+    <SUITE FILE_PATH="coverage/CodingTest$____V2.coverage" NAME="(이코테)음료수 얼려먹기_V2 Coverage Results" MODIFIED="1695282823283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ___.coverage" NAME="(BOJ)카드 합체 놀이 Coverage Results" MODIFIED="1675835185922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1018___.coverage" NAME="(BOJ)1018_체스판 다시 칠하기 Coverage Results" MODIFIED="1674369235731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_11659__4.coverage" NAME="(BOJ)11659_구간합구하기 4 Coverage Results" MODIFIED="1673837997437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1929__PY.coverage" NAME="(BOJ)1929_소수구하기.PY Coverage Results" MODIFIED="1675078041101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
+    <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1003__.coverage" NAME="(BOJ)1003_피보나치 함수 Coverage Results" MODIFIED="1701930588877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_11047_0.coverage" NAME="(BOJ)11047_동전0 Coverage Results" MODIFIED="1674823774869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_2775__.coverage" NAME="(BOJ)2775_부녀회장이 될테야 Coverage Results" MODIFIED="1674379199689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ__0_.coverage" NAME="(BOJ)팩토리얼 0의 개수 Coverage Results" MODIFIED="1674571781415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
@@ -381,7 +398,7 @@
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_2108_.coverage" NAME="(BOJ)2108_통계학 Coverage Results" MODIFIED="1674463572775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_9507_Generations_of_Tribbles.coverage" NAME="(BOJ)9507_Generations of Tribbles Coverage Results" MODIFIED="1675152547404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_2581_.coverage" NAME="(BOJ)2581_소수 Coverage Results" MODIFIED="1677768132630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
-    <SUITE FILE_PATH="coverage/CodingTest$_BOJ_4963__.coverage" NAME="(BOJ)4963_섬의 개수 Coverage Results" MODIFIED="1695107883742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
+    <SUITE FILE_PATH="coverage/CodingTest$_BOJ_4963__.coverage" NAME="(BOJ)4963_섬의 개수 Coverage Results" MODIFIED="1695107962326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_PG_lv1____.coverage" NAME="(PG)lv1_개인정보 수집 유효 기간 Coverage Results" MODIFIED="1677051442503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$___.coverage" NAME="(소수판별)에라토스테네스의 체 Coverage Results" MODIFIED="1675079973255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_11053_____.coverage" NAME="(BOJ)11053_가장 긴 증가하는 부분 수열 Coverage Results" MODIFIED="1676793079545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
@@ -391,6 +408,7 @@
     <SUITE FILE_PATH="coverage/CodingTest$_PG_lv1_.coverage" NAME="(PG)lv1_실패율 Coverage Results" MODIFIED="1675216109265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1158__.coverage" NAME="(BOJ)1158_요세푸스 문제 Coverage Results" MODIFIED="1675255077609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_1021__.coverage" NAME="(BOJ)1021_회전하는 큐 Coverage Results" MODIFIED="1674290024448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
+    <SUITE FILE_PATH="coverage/CodingTest$_BOJ_27866__.coverage" NAME="(BOJ)27866_문자와 문자열 Coverage Results" MODIFIED="1701929784957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
     <SUITE FILE_PATH="coverage/CodingTest$_BOJ_4344__.coverage" NAME="(BOJ)4344_평균은 넘겠지 Coverage Results" MODIFIED="1675491515928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/요목조목" />
   </component>
 </project>
